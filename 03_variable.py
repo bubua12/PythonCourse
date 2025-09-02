@@ -13,10 +13,10 @@ print("早上好，" + "李四")
 # ... ...
 
 
-## 变量
-greet = "早上好，"
+## 变量 todo 变量的作用（截至到当前学习阶段） summary
+greet = "晚上好，"
 print(greet + "张三")
 print(greet + "李四")
 
 print(1 + 2 - 3 / 4 * 5)
-
+print(1 + (2 - 3) / 4 * 5)
